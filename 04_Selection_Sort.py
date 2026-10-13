@@ -9,8 +9,8 @@
 #   return nums
 # print(ss([1,222,3,44,5,66,7,88]))
 
-# in descending order
 
+# in descending order
 def ss(nums):
   n = len(nums)
   for i in range(0,n):

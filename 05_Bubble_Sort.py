@@ -14,3 +14,4 @@ def bs(num):
 lst = [1,222,3,44,5,66,7,88]
 bs(lst)
 print(lst)
+
